@@ -7,6 +7,10 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Free self taught CS education](https://github.com/ossu/computer-science)
 
+## CV
+- [One-page CV template in XeTeX](https://github.com/barrucadu/cv)
+- [Deedy-Resume](https://github.com/deedy/Deedy-Resume)
+
 ## Find work
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Linkedin Jobs](https://www.linkedin.com/jobs/)
