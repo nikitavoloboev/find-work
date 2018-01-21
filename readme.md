@@ -6,8 +6,8 @@
 ## Prepare
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Free self taught CS education](https://github.com/ossu/computer-science)
-- [Learn programming resoures](https://learn-anything.xyz/1751)
-- [Learn computer science resources](https://learn-anything.xyz/353)
+- [Programming resoures](https://learn-anything.xyz/1751)
+- [Computer science resources](https://learn-anything.xyz/353)
 
 ## Make CV
 - [One-page CV template in XeTeX](https://github.com/barrucadu/cv)
