@@ -4,10 +4,11 @@
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Prepare
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [Free self taught CS education](https://github.com/ossu/computer-science)
-- [Programming resoures](https://learn-anything.xyz/1751)
-- [Computer science resources](https://learn-anything.xyz/353)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
+- [Free self taught CS education](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science.
+- [Leetode problems](https://leetcode.com) - Many problems geared for solving actual programming interview questions.
+- [Programming resoures](https://learn-anything.xyz/1751) - More resources on programming.
+- [Computer science resources](https://learn-anything.xyz/353) - More resources on CS.
 
 ## Make CV
 - [One-page CV template in XeTeX](https://github.com/barrucadu/cv)
