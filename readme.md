@@ -1,7 +1,7 @@
 # Find work programming
 > Curated list of places to look and things to do to find work programming
 
-[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## Prepare
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
