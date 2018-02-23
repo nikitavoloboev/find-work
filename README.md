@@ -27,6 +27,7 @@
 ## Find work by technology
 ### Go
 - [Go Jobs & Developers](https://www.golangprojects.com)
+- [Stack overflow: jobs using Go](https://stackoverflow.com/jobs/developer-jobs-using-go?med=site-ui&ref=tag-page_go)
 
 ## Freelancing
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
