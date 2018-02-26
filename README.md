@@ -1,7 +1,7 @@
 # Find work programming
 > Curated list of places to look and things to do to find work programming
 
-*Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#contribution-guidelines) before contributing.*
 
 ## Prepare
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
@@ -36,7 +36,7 @@
 - [Few notes about web developer’s interviews](http://blog.sapegin.me/all/coding-interview)
 
 ## Contributing
-See [contribution guidelines](contributing.md#contribution-guidelines).
+See [contribution guidelines](CONTRIBUTING.md#contribution-guidelines).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
