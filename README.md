@@ -10,6 +10,7 @@
 - [Leetode problems](https://leetcode.com) - Many problems geared for solving actual programming interview questions.
 - [Programming resoures](https://learn-anything.xyz/1751)
 - [Computer science resources](https://learn-anything.xyz/353)
+- [Algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages.
 
 ## Make CV
 - [One-page CV template in XeTeX](https://github.com/barrucadu/cv)
