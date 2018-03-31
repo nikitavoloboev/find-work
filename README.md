@@ -22,6 +22,9 @@
 - [Angel list](https://angel.co)
 - [HN: who is Hiring (March)](https://news.ycombinator.com/item?id=16492994)
 
+## Freelancing
+- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
+
 ## Find work by country
 ### Netherlands
 - [Angel.co NL startups](https://angel.co/netherlands)
@@ -33,9 +36,6 @@
 
 ### Python
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
-
-## Freelancing
-- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
 
 ## Related
 - [CS career questions EU](https://www.reddit.com/r/cscareerquestionsEU/wiki/index)
