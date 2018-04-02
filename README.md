@@ -20,7 +20,7 @@
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Linkedin Jobs](https://www.linkedin.com/jobs/)
 - [Angel list](https://angel.co)
-- [HN: who is Hiring (March)](https://news.ycombinator.com/item?id=16492994)
+- [HN: who is Hiring (April)](https://news.ycombinator.com/item?id=16735011)
 
 ## Freelancing
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
