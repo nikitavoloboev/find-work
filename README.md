@@ -11,6 +11,7 @@
 	- [Netherlands](#netherlands)
 - [Find work by technology](#find-work-by-technology)
 	- [Go](#go)
+	- [Python](#python)
 - [Freelancing](#freelancing)
 - [Related](#related)
 
