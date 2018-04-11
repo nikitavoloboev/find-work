@@ -41,7 +41,7 @@
 ## Find work by technology
 ### Go
 - [Go Jobs & Developers](https://www.golangprojects.com)
-- [Stack overflow: jobs using Go](https://stackoverflow.com/jobs/developer-jobs-using-go?med=site-ui&ref=tag-page_go)
+- [Stack overflow: Jobs using Go](https://stackoverflow.com/jobs/developer-jobs-using-go?med=site-ui&ref=tag-page_go)
 
 ### Python
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
