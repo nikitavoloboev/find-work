@@ -29,12 +29,13 @@
 - [Deedy-Resume](https://github.com/deedy/Deedy-Resume)
 
 ## Find work
+- [HN: Who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Linkedin Jobs](https://www.linkedin.com/jobs/)
 - [Angel list](https://angel.co/jobs)
 - [Unicorn Hunt](https://unicornhunt.io/)
 - [Landing Jobs](https://landing.jobs/)
-- [HN: Who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
+- [Remote OK](#https://remoteok.io)
 
 ## Find work by country
 ### Netherlands
