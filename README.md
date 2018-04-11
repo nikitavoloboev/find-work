@@ -7,11 +7,11 @@
 - [Prepare](#prepare)
 - [Make CV](#make-cv)
 - [Find work](#find-work)
-- [Find work by country](#find-work-by-country)
-	- [Netherlands](#netherlands)
 - [Find work by technology](#find-work-by-technology)
 	- [Go](#go)
 	- [Python](#python)
+- [Find work by country](#find-work-by-country)
+	- [Netherlands](#netherlands)
 - [Freelancing](#freelancing)
 - [Related](#related)
 
@@ -38,10 +38,6 @@
 - [Landing Jobs](https://landing.jobs/)
 - [Remote OK](https://remoteok.io)
 
-## Find work by country
-### Netherlands
-- [Angel.co NL startups](https://angel.co/netherlands)
-
 ## Find work by technology
 ### Go
 - [Go Jobs & Developers](https://www.golangprojects.com)
@@ -49,6 +45,10 @@
 
 ### Python
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
+
+## Find work by country
+### Netherlands
+- [Angel.co NL startups](https://angel.co/netherlands)
 
 ## Freelancing
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
