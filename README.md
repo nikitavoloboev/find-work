@@ -35,7 +35,7 @@
 - [Angel list](https://angel.co/jobs)
 - [Unicorn Hunt](https://unicornhunt.io/)
 - [Landing Jobs](https://landing.jobs/)
-- [Remote OK](#https://remoteok.io)
+- [Remote OK](https://remoteok.io)
 
 ## Find work by country
 ### Netherlands
