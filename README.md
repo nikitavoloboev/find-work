@@ -34,7 +34,7 @@
 - [Angel list](https://angel.co/jobs)
 - [Unicorn Hunt](https://unicornhunt.io/)
 - [Landing Jobs](https://landing.jobs/)
-- [HN: who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
+- [HN: Who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
 
 ## Find work by country
 ### Netherlands
