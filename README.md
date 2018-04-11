@@ -23,6 +23,7 @@
 - [Programming resoures](https://learn-anything.xyz/1751)
 - [Computer science resources](https://learn-anything.xyz/353)
 - [Algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages.
+- [Learn Anything](https://learn-anything.xyz) - Best paths for learning any topic including CS, programming and algorithms.
 
 ## Make CV
 - [One-page CV template in XeTeX](https://github.com/barrucadu/cv)
