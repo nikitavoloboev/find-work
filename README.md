@@ -3,6 +3,17 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
+##### Contents
+- [Prepare](#prepare)
+- [Make CV](#make-cv)
+- [Find work (Global)](#find-work-(global))
+- [Find work by country](#find-work-by-country)
+	- [Netherlands](#netherlands)
+- [Find work by technology](#find-work-by-technology)
+- [Go](#go)
+- [Freelancing](#freelancing)
+- [Related](#related)
+
 ## Prepare
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
 - [Free self taught CS education](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science.
@@ -16,16 +27,13 @@
 - [One-page CV template in XeTeX](https://github.com/barrucadu/cv)
 - [Deedy-Resume](https://github.com/deedy/Deedy-Resume)
 
-## Find work
+## Find work (Global)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Linkedin Jobs](https://www.linkedin.com/jobs/)
 - [Angel list](https://angel.co/jobs)
 - [Unicorn Hunt](https://unicornhunt.io/)
 - [Landing Jobs](https://landing.jobs/)
 - [HN: who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
-
-## Freelancing
-- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
 
 ## Find work by country
 ### Netherlands
@@ -38,6 +46,9 @@
 
 ### Python
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
+
+## Freelancing
+- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
 
 ## Related
 - [CS career questions EU](https://www.reddit.com/r/cscareerquestionsEU/wiki/index)
