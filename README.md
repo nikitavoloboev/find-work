@@ -19,7 +19,9 @@
 ## Find work
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Linkedin Jobs](https://www.linkedin.com/jobs/)
-- [Angel list](https://angel.co)
+- [Angel list](https://angel.co/jobs)
+- [Unicorn Hunt](https://unicornhunt.io/)
+- [Landing Jobs](https://landing.jobs/)
 - [HN: who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
 
 ## Freelancing
