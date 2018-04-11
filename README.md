@@ -6,7 +6,7 @@
 ##### Contents
 - [Prepare](#prepare)
 - [Make CV](#make-cv)
-- [Find work (Global)](#find-work-(global))
+- [Find work](#find-work)
 - [Find work by country](#find-work-by-country)
 	- [Netherlands](#netherlands)
 - [Find work by technology](#find-work-by-technology)
@@ -27,7 +27,7 @@
 - [One-page CV template in XeTeX](https://github.com/barrucadu/cv)
 - [Deedy-Resume](https://github.com/deedy/Deedy-Resume)
 
-## Find work (Global)
+## Find work
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Linkedin Jobs](https://www.linkedin.com/jobs/)
 - [Angel list](https://angel.co/jobs)
