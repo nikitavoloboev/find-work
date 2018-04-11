@@ -10,7 +10,7 @@
 - [Find work by country](#find-work-by-country)
 	- [Netherlands](#netherlands)
 - [Find work by technology](#find-work-by-technology)
-- [Go](#go)
+	- [Go](#go)
 - [Freelancing](#freelancing)
 - [Related](#related)
 
