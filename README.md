@@ -1,5 +1,5 @@
 # Find work programming
-> Curated list of places to look and things to do to find work programming
+> Curated list of websites and resources to find work programming
 
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
