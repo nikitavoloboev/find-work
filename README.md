@@ -55,7 +55,7 @@
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
 
 ## Related
-- [CS career questions EU](https://www.reddit.com/r/cscareerquestionsEU/wiki/index)
+- [CS career questions EU wiki](https://www.reddit.com/r/cscareerquestionsEU/wiki/index)
 - [Few notes about web developer’s interviews](http://blog.sapegin.me/all/coding-interview)
 
 ## Contributing
