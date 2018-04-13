@@ -30,14 +30,16 @@
 - [Deedy-Resume](https://github.com/deedy/Deedy-Resume)
 
 ## Find work
-- [HN: Who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Linkedin Jobs](https://www.linkedin.com/jobs/)
 - [Angel list](https://angel.co/jobs)
+- [Glassdoor](https://www.glassdoor.com)
+- [Hired](https://hired.com/)
 - [Unicorn Hunt](https://unicornhunt.io/)
 - [Relocate me](https://relocate.me/)
 - [Landing Jobs](https://landing.jobs/)
 - [Remote OK](https://remoteok.io)
+- [HN: Who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
 
 ## Find work by technology
 ### Go
