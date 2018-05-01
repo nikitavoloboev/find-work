@@ -40,7 +40,7 @@
 - [Relocate me](https://relocate.me/)
 - [Landing Jobs](https://landing.jobs/)
 - [Remote OK](https://remoteok.io)
-- [HN: Who is Hiring (April 2018)](https://news.ycombinator.com/item?id=16735011)
+- [HN: Who is Hiring (May 2018)](https://news.ycombinator.com/item?id=16967543)
 
 ## Find work by technology
 ### Go
