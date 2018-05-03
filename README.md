@@ -28,7 +28,6 @@
 
 ## Make CV
 - [Awesome CV](https://github.com/posquit0/Awesome-CV) - Great LaTeX template.
-- [One-page CV template in XeTeX](https://github.com/barrucadu/cv)
 - [Deedy-Resume](https://github.com/deedy/Deedy-Resume)
 
 ## Find work
