@@ -11,7 +11,7 @@
 	- [Go](#go)
 	- [React](#react)
 	- [Python](#python)
-	- [Swift](#swift)
+	- [iOS](#ios)
 - [Find work by country](#find-work-by-country)
 	- [Netherlands](#netherlands)
 - [Freelancing](#freelancing)
@@ -41,6 +41,8 @@
 - [Relocate me](https://relocate.me/)
 - [Landing Jobs](https://landing.jobs/)
 - [Remote OK](https://remoteok.io)
+- [Indeed](https://www.indeed.com)
+- [Product Hunt Jobs](https://www.producthunt.com/jobs)
 - [Go Remote](https://goremote.io/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [HN: Who is Hiring (May 2018)](https://news.ycombinator.com/item?id=16967543)
@@ -56,9 +58,13 @@
 ### Python
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
 
-### Swift
+### iOS
 - [Swift Jobs](https://www.natashatherobot.com/swift-jobs/)
 - [Xcode Jobs](https://twitter.com/xcodejobs)
+- [iOS Jos](https://iosjobs.io/)
+- [iOS Indeed Jobs](https://www.indeed.com/q-iOS-developer-jobs.html)
+- [SO iOS Jobs](https://stackoverflow.com/jobs?q=ios)
+- [LinkedIn iOS Jobs](https://www.linkedin.com/jobs/ios-developer-jobs/)
 
 ## Find work by country
 ### Netherlands
