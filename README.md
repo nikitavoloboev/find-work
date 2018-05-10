@@ -11,6 +11,7 @@
 	- [Go](#go)
 	- [React](#react)
 	- [Python](#python)
+	- [Swift](#swift)
 - [Find work by country](#find-work-by-country)
 	- [Netherlands](#netherlands)
 - [Freelancing](#freelancing)
@@ -53,6 +54,10 @@
 
 ### Python
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
+
+### Swift
+- [Swift Jobs](https://www.natashatherobot.com/swift-jobs/)
+- [Xcode Jobs](https://twitter.com/xcodejobs)
 
 ## Find work by country
 ### Netherlands
