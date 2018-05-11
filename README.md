@@ -42,6 +42,7 @@
 - [Landing Jobs](https://landing.jobs/)
 - [Remote OK](https://remoteok.io)
 - [Indeed](https://www.indeed.com)
+- [Loom](http://www.loom.co/) - Connecting companies and top freelancers.
 - [Product Hunt Jobs](https://www.producthunt.com/jobs)
 - [Go Remote](https://goremote.io/)
 - [We Work Remotely](https://weworkremotely.com/)
