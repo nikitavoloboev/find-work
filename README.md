@@ -33,7 +33,7 @@
 
 ## Find work
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
-- [Linkedin Jobs](https://www.linkedin.com/jobs/)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Angel list](https://angel.co/jobs)
 - [Glassdoor](https://www.glassdoor.com)
 - [Hired](https://hired.com/)
