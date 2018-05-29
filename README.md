@@ -1,4 +1,4 @@
-# Find work programming
+# Find work programming [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 > Curated list of websites and resources to find work programming
 
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
