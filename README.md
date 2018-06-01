@@ -26,6 +26,7 @@
 - [Computer science resources](https://learn-anything.xyz/353)
 - [Algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages.
 - [Learn Anything](https://learn-anything.xyz) - Best paths for learning any topic including CS, programming and algorithms.
+- [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
 
 ## Make CV
 - [Awesome CV](https://github.com/posquit0/Awesome-CV) - Great LaTeX template.
