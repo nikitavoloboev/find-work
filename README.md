@@ -33,6 +33,7 @@
 - [Deedy-Resume](https://github.com/deedy/Deedy-Resume)
 
 ## Find work
+- [HN: Who is Hiring (June 2018)](https://news.ycombinator.com/item?id=17205865)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Angel list](https://angel.co/jobs)
@@ -47,7 +48,6 @@
 - [Product Hunt Jobs](https://www.producthunt.com/jobs)
 - [Go Remote](https://goremote.io/)
 - [We Work Remotely](https://weworkremotely.com/)
-- [HN: Who is Hiring (June 2018)](https://news.ycombinator.com/item?id=17205865)
 
 ## Find work by technology
 ### Go
