@@ -34,9 +34,9 @@
 
 ## Find work
 - [HN: Who is Hiring (June 2018)](https://kennytilton.github.io/whoishiring/)
-- [Stack Overflow Jobs](https://stackoverflow.com/jobs)
-- [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Angel list](https://angel.co/jobs)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+- [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Glassdoor](https://www.glassdoor.com)
 - [Hired](https://hired.com/)
 - [Unicorn Hunt](https://unicornhunt.io/)
