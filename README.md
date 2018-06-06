@@ -34,7 +34,7 @@
 
 ## Find work
 - [HN: Who is Hiring (June 2018)](https://kennytilton.github.io/whoishiring/)
-- [Angel list](https://angel.co/jobs)
+- [Angel List](https://angel.co/jobs)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Glassdoor](https://www.glassdoor.com)
