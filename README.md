@@ -48,6 +48,7 @@
 - [Product Hunt Jobs](https://www.producthunt.com/jobs)
 - [Go Remote](https://goremote.io/)
 - [We Work Remotely](https://weworkremotely.com/)
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme)
 
 ## Find work by technology
 ### Go
