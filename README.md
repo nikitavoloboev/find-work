@@ -21,8 +21,8 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
 - [Free self taught CS education](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science.
 - [Everything you need to get the job](https://github.com/kdn251/interviews)
-- [Leetode problems](https://leetcode.com) - Many problems geared for solving actual programming interview questions.
-- [Programming resoures](https://learn-anything.xyz/1751)
+- [LeetCode problems](https://leetcode.com) - Many problems geared for solving actual programming interview questions.
+- [Programming resources](https://learn-anything.xyz/1751)
 - [Computer science resources](https://learn-anything.xyz/353)
 - [Algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages.
 - [Learn Anything](https://learn-anything.xyz) - Best paths for learning any topic including CS, programming and algorithms.
@@ -30,7 +30,7 @@
 
 ## Make CV
 - [Awesome CV](https://github.com/posquit0/Awesome-CV) - Great LaTeX template.
-- [Deedy-Resume](https://github.com/deedy/Deedy-Resume)
+- [Deedy Resume](https://github.com/deedy/Deedy-Resume)
 
 ## Find work
 - [HN: Who is Hiring (June 2018)](https://kennytilton.github.io/whoishiring/)
@@ -64,7 +64,7 @@
 ### iOS
 - [Swift Jobs](https://www.natashatherobot.com/swift-jobs/)
 - [Xcode Jobs](https://twitter.com/xcodejobs)
-- [iOS Jos](https://iosjobs.io/)
+- [iOS Jobs](https://iosjobs.io/)
 - [iOS Indeed Jobs](https://www.indeed.com/q-iOS-developer-jobs.html)
 - [SO iOS Jobs](https://stackoverflow.com/jobs?q=ios)
 - [LinkedIn iOS Jobs](https://www.linkedin.com/jobs/ios-developer-jobs/)
