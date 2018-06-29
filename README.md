@@ -58,6 +58,7 @@
 
 ### React
 - [Reactiflux Jobs](http://jobs.reactiflux.com/)
+- [Key Values: React Developer Jobs](https://www.keyvalues.com/react-developer-jobs)
 
 ### Python
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
