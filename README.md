@@ -49,6 +49,7 @@
 - [Go Remote](https://goremote.io/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme)
+- [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values.
 
 ## Find work by technology
 ### Go
