@@ -33,7 +33,7 @@
 - [Deedy Resume](https://github.com/deedy/Deedy-Resume)
 
 ## Find work
-- [HN: Who is Hiring (June 2018)](https://kennytilton.github.io/whoishiring/)
+- [HN: Who is Hiring](https://kennytilton.github.io/whoishiring/)
 - [Angel List](https://angel.co/jobs)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
