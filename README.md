@@ -18,19 +18,17 @@
 - [Related](#related)
 
 ## Prepare
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
-- [Free self taught CS education](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science.
-- [Everything you need to get the job](https://github.com/kdn251/interviews)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university#readme) - Complete computer science study plan to become a software engineer.
+- [Free self taught CS education](https://github.com/ossu/computer-science#readme) - Path to a free self-taught education in Computer Science.
+- [Everything you need to get the job](https://github.com/kdn251/interviews#readme)
 - [LeetCode problems](https://leetcode.com) - Many problems geared for solving actual programming interview questions.
-- [Programming resources](https://learn-anything.xyz/1751)
-- [Computer science resources](https://learn-anything.xyz/353)
-- [Algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages.
 - [Learn Anything](https://learn-anything.xyz) - Best paths for learning any topic including CS, programming and algorithms.
+- [Algorithms](https://github.com/marcosfede/algorithms#readme) - Solved algorithms and data structures problems in many languages.
 - [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
 
 ## Make CV
-- [Awesome CV](https://github.com/posquit0/Awesome-CV) - Great LaTeX template.
-- [Deedy Resume](https://github.com/deedy/Deedy-Resume)
+- [Awesome CV](https://github.com/posquit0/Awesome-CV#readme) - Great LaTeX template.
+- [Deedy Resume](https://github.com/deedy/Deedy-Resume#readme)
 
 ## Find work
 - [HN: Who is Hiring](https://kennytilton.github.io/whoishiring/)
@@ -76,7 +74,7 @@
 - [Angel.co NL startups](https://angel.co/netherlands)
 
 ## Freelancing
-- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
+- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer#readme) - List of community-curated resources to find topical remote freelance & contract work.
 
 ## Related
 - [CS career questions EU wiki](https://www.reddit.com/r/cscareerquestionsEU/wiki/index)
