@@ -31,7 +31,8 @@
 - [Deedy Resume](https://github.com/deedy/Deedy-Resume#readme)
 
 ## Find work
-- [HN: Who is Hiring](https://kennytilton.github.io/whoishiring/)
+- [HN: Who is Hiring](https://kennytilton.github.io/whoishiring/) - Search & filter through monthly `HN: Who is hiring?` postings.
+- [Who is Hiring](https://whoishiring.io)
 - [Angel List](https://angel.co/jobs)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
