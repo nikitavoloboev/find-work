@@ -8,10 +8,11 @@
 - [Make CV](#make-cv)
 - [Find work](#find-work)
 - [Find work by technology](#find-work-by-technology)
+	- [iOS](#ios)
 	- [Go](#go)
 	- [React](#react)
 	- [Python](#python)
-	- [iOS](#ios)
+	- [Haskell](#haskell)
 - [Find work by country](#find-work-by-country)
 	- [Netherlands](#netherlands)
 - [Freelancing](#freelancing)
@@ -51,6 +52,14 @@
 - [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values.
 
 ## Find work by technology
+### iOS
+- [Swift Jobs](https://www.natashatherobot.com/swift-jobs/)
+- [Xcode Jobs](https://twitter.com/xcodejobs)
+- [iOS Jobs](https://iosjobs.io/)
+- [iOS Indeed Jobs](https://www.indeed.com/q-iOS-developer-jobs.html)
+- [SO iOS Jobs](https://stackoverflow.com/jobs?q=ios)
+- [LinkedIn iOS Jobs](https://www.linkedin.com/jobs/ios-developer-jobs/)
+
 ### Go
 - [Go Jobs & Developers](https://www.golangprojects.com)
 - [Stack overflow: Jobs using Go](https://stackoverflow.com/jobs/developer-jobs-using-go?med=site-ui&ref=tag-page_go)
@@ -62,13 +71,8 @@
 ### Python
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
 
-### iOS
-- [Swift Jobs](https://www.natashatherobot.com/swift-jobs/)
-- [Xcode Jobs](https://twitter.com/xcodejobs)
-- [iOS Jobs](https://iosjobs.io/)
-- [iOS Indeed Jobs](https://www.indeed.com/q-iOS-developer-jobs.html)
-- [SO iOS Jobs](https://stackoverflow.com/jobs?q=ios)
-- [LinkedIn iOS Jobs](https://www.linkedin.com/jobs/ios-developer-jobs/)
+### Haskell
+- [Haskell companies](https://github.com/erkmos/haskell-companies#readme) - Curated list of companies using Haskell in industry.
 
 ## Find work by country
 ### Netherlands
