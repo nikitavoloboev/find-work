@@ -82,7 +82,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
 
-## Rust
+### Rust
 
 - [Companies using Rust](https://www.rust-lang.org/en-US/friends.html)
 - [This week in Rust](https://this-week-in-rust.org/) - Weekly Rust newsletter that has Jobs section.
