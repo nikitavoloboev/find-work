@@ -110,10 +110,10 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 
 See [contribution guidelines](CONTRIBUTING.md#readme).
 
-## More lists 📝
+## More lists
 
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
-## License
+---
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
