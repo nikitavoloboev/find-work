@@ -18,6 +18,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
   - [Haskell](#haskell)
 - [Find work by country](#find-work-by-country)
   - [Netherlands](#netherlands)
+  - [Germany](#germany)
 - [Freelancing](#freelancing)
 - [Related](#related)
 
@@ -96,6 +97,10 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 ### Netherlands
 
 - [Angel.co NL startups](https://angel.co/netherlands)
+
+### Germany
+
+- [Job List Berlin](https://joblistberlin.com/companies)
 
 ## Freelancing
 
