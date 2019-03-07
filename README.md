@@ -57,6 +57,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 - [We Work Remotely](https://weworkremotely.com/)
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme)
 - [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values.
+- [Future Jobs](https://www.futurejobs.io/) - The best machine learning, AI, and data science jobs, in one place.
 
 ## Find work by technology
 
