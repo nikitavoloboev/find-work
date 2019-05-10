@@ -40,6 +40,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 ## Find work
 
 - [HN: Who is Hiring](https://kennytilton.github.io/whoishiring/) - Search & filter through monthly `HN: Who is hiring?` postings.
+- [findwork.dev](https://findwork.dev) - Jobs aggregator which collects data from Hacker News, Github, Stackoverflow.
 - [Who is Hiring](https://whoishiring.io)
 - [Angel List](https://angel.co/jobs)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
