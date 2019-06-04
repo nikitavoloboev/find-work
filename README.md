@@ -19,6 +19,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 - [Find work by country](#find-work-by-country)
   - [Netherlands](#netherlands)
   - [Germany](#germany)
+  - [Japan](#japan)
 - [Freelancing](#freelancing)
 - [Related](#related)
 
@@ -103,6 +104,10 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 ### Germany
 
 - [Job List Berlin](https://joblistberlin.com/companies)
+
+### Japan
+
+- [Japan Dev](https://japan-dev.com/) - Best source for developer jobs at Japan's top companies.
 
 ## Freelancing
 
