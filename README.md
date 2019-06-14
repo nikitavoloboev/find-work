@@ -71,6 +71,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 - [iOS Indeed Jobs](https://www.indeed.com/q-iOS-developer-jobs.html)
 - [SO iOS Jobs](https://stackoverflow.com/jobs?q=ios)
 - [LinkedIn iOS Jobs](https://www.linkedin.com/jobs/ios-developer-jobs/)
+- [iOS Dev Jobs](https://iosdevjobs.com/) - Has newsletter too.
 
 ### Go
 
