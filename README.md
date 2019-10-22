@@ -60,6 +60,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme)
 - [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values.
 - [Future Jobs](https://www.futurejobs.io/) - The best machine learning, AI, and data science jobs, in one place.
+- [Xpo Jobs](https://jobs.xpo.network/)
 
 ## Find work by technology
 
