@@ -120,6 +120,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 - [CS career questions EU wiki](https://www.reddit.com/r/cscareerquestionsEU/wiki/index)
 - [Few notes about web developer’s interviews](http://blog.sapegin.me/all/coding-interview)
 - [Finding work notes/links](https://wiki.nikitavoloboev.xyz/work/finding-work)
+- [Search the last 'Who is hiring?' thread](https://hnjobs.emilburzo.com/)
 
 ## Contributing
 
