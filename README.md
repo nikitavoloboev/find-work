@@ -4,7 +4,7 @@
 
 _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
 
-##### Contents
+#### Contents
 
 - [Prepare](#prepare)
 - [Make CV](#make-cv)
@@ -129,8 +129,6 @@ See [contribution guidelines](CONTRIBUTING.md#readme).
 ## More lists
 
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
-
----
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
