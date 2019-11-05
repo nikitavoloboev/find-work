@@ -1,4 +1,4 @@
-# Find work programming [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Find work programming [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme) [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
 > Curated list of websites and resources to find work programming
 
@@ -123,14 +123,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Finding work notes/links](https://wiki.nikitavoloboev.xyz/work/finding-work)
 - [Search the last 'Who is hiring?' thread](https://hnjobs.emilburzo.com/)
 
-## Contributing
-
-See [contribution guidelines](CONTRIBUTING.md#readme).
-
-## More lists
-
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
-
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
