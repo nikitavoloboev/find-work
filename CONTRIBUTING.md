@@ -5,7 +5,7 @@ Thank you for taking the time to contribute! ♥️
 Ensure your pull request adheres to following guidelines:
 
 - Search included links before adding a new one, as yours may be a duplicate.
-- Only add links you think are great! Feel welcome to remove entries that you think aren't great!
+- Only add entries you think are great! Feel welcome to remove entries that you think aren't great!
 - Use the following format: `[Name](link) - Description/Link.`
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
