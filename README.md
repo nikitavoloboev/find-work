@@ -61,6 +61,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme)
 - [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values.
 - [Future Jobs](https://www.futurejobs.io/) - The best machine learning, AI, and data science jobs, in one place.
+- [CalmJobs](http://calmjobs.io/) - Work with companies who values work-life balance.
 - [Xpo Jobs](https://jobs.xpo.network/)
 
 ## Find work by technology
