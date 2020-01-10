@@ -63,6 +63,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Future Jobs](https://www.futurejobs.io/) - The best machine learning, AI, and data science jobs, in one place.
 - [CalmJobs](http://calmjobs.io/) - Work with companies who values work-life balance.
 - [Xpo Jobs](https://jobs.xpo.network/)
+- [co-hire](https://www.co-hire.com/) - Simple way for technical people to speak directly with technology companies.
 
 ## Find work by technology
 
@@ -123,6 +124,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Few notes about web developer’s interviews](http://blog.sapegin.me/all/coding-interview)
 - [Finding work notes/links](https://wiki.nikitavoloboev.xyz/work/finding-work)
 - [Search the last 'Who is hiring?' thread](https://hnjobs.emilburzo.com/)
+- [Finding Work tips/links](https://wiki.nikitavoloboev.xyz/work/finding-work)
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
