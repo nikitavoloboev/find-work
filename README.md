@@ -56,6 +56,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Indeed](https://www.indeed.com)
 - [Loom](http://www.loom.co/) - Connecting companies and top freelancers.
 - [Product Hunt Jobs](https://www.producthunt.com/jobs)
+- [Remote](https://remote.com/) - Remote jobs for anyone, anywhere.
 - [Go Remote](https://goremote.io/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme)
