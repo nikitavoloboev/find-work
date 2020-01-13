@@ -91,6 +91,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ### Python
 
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
+- [Free Python Job Board](http://pythonjobs.github.io/)
 
 ### Rust
 
