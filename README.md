@@ -127,7 +127,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Few notes about web developer’s interviews](http://blog.sapegin.me/all/coding-interview)
 - [Finding work notes/links](https://wiki.nikitavoloboev.xyz/work/finding-work)
 - [Search the last 'Who is hiring?' thread](https://hnjobs.emilburzo.com/)
-- [Finding Work tips/links](https://wiki.nikitavoloboev.xyz/work/finding-work)
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
