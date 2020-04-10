@@ -125,7 +125,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [CS career questions EU wiki](https://www.reddit.com/r/cscareerquestionsEU/wiki/index)
 - [Few notes about web developer’s interviews](http://blog.sapegin.me/all/coding-interview)
-- [Finding work notes/links](https://wiki.nikitavoloboev.xyz/work/finding-work)
+- [Finding work wiki](https://wiki.nikitavoloboev.xyz/work/finding-work)
+- [Remote work wiki](https://wiki.nikitavoloboev.xyz/work/remote-work)
 - [Search the last 'Who is hiring?' thread](https://hnjobs.emilburzo.com/)
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
