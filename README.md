@@ -66,6 +66,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Xpo Jobs](https://jobs.xpo.network/)
 - [co-hire](https://www.co-hire.com/) - Simple way for technical people to speak directly with technology companies.
 - [EntryLvl](https://entrylevel.io/) - Browse through entry level job opportunities and find your match. ([HN](https://news.ycombinator.com/item?id=22691295))
+- [Y Combinator's list of most active hiring companies on Work at a Startup](https://www.workatastartup.com/job_list?utm_source=hn_jobs)
 
 ## Find work by technology
 
