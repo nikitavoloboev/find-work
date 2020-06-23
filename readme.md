@@ -1,8 +1,8 @@
-# Find work programming [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Find work programming [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
 > Curated list of websites and resources to find work programming
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 #### Contents
 
@@ -25,18 +25,18 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Prepare
 
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university#readme) - Complete computer science study plan to become a software engineer.
-- [Free self taught CS education](https://github.com/ossu/computer-science#readme) - Path to a free self-taught education in Computer Science.
-- [Everything you need to get the job](https://github.com/kdn251/interviews#readme)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
+- [Free self taught CS education](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science.
+- [Everything you need to get the job](https://github.com/kdn251/interviews)
 - [LeetCode problems](https://leetcode.com) - Many problems geared for solving actual programming interview questions.
 - [Learn Anything](https://learn-anything.xyz) - Best paths for learning any topic including CS, programming and algorithms.
-- [Algorithms](https://github.com/marcosfede/algorithms#readme) - Solved algorithms and data structures problems in many languages.
-- [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
+- [Algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages.
+- [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews)
 
 ## Make CV
 
-- [Awesome CV](https://github.com/posquit0/Awesome-CV#readme) - Great LaTeX template.
-- [Deedy Resume](https://github.com/deedy/Deedy-Resume#readme)
+- [Awesome CV](https://github.com/posquit0/Awesome-CV) - Great LaTeX template.
+- [Deedy Resume](https://github.com/deedy/Deedy-Resume)
 
 ## Find work
 
@@ -59,7 +59,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Remote](https://remote.com/) - Remote jobs for anyone, anywhere.
 - [Go Remote](https://goremote.io/)
 - [We Work Remotely](https://weworkremotely.com/)
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme)
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values.
 - [Future Jobs](https://www.futurejobs.io/) - The best machine learning, AI, and data science jobs, in one place.
 - [CalmJobs](http://calmjobs.io/) - Work with companies who values work-life balance.
@@ -103,7 +103,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ### Haskell
 
-- [Haskell companies](https://github.com/erkmos/haskell-companies#readme) - Curated list of companies using Haskell in industry.
+- [Haskell companies](https://github.com/erkmos/haskell-companies) - Curated list of companies using Haskell in industry.
 
 ## Find work by country
 
@@ -121,7 +121,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Freelancing
 
-- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer#readme) - List of community-curated resources to find topical remote freelance & contract work.
+- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer) - List of community-curated resources to find topical remote freelance & contract work.
 
 ## Related
 
@@ -131,7 +131,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Remote work wiki](https://wiki.nikitavoloboev.xyz/work/remote-work)
 - [Search the last 'Who is hiring?' thread](https://hnjobs.emilburzo.com/)
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
