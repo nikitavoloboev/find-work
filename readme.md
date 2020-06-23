@@ -4,8 +4,6 @@
 
 _Please read [contribution guidelines](contributing.md) before contributing._
 
-#### Contents
-
 - [Prepare](#prepare)
 - [Make CV](#make-cv)
 - [Find work](#find-work)
