@@ -62,6 +62,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Future Jobs](https://www.futurejobs.io/) - The best machine learning, AI, and data science jobs, in one place.
 - [CalmJobs](http://calmjobs.io/) - Work with companies who values work-life balance.
 - [Xpo Jobs](https://jobs.xpo.network/)
+- [FOSS Jobs](https://www.fossjobs.net/) - Free & Open Source Jobs.
 - [co-hire](https://www.co-hire.com/) - Simple way for technical people to speak directly with technology companies.
 - [EntryLvl](https://entrylevel.io/) - Browse through entry level job opportunities and find your match. ([HN](https://news.ycombinator.com/item?id=22691295))
 - [Y Combinator's list of most active hiring companies on Work at a Startup](https://www.workatastartup.com/job_list?utm_source=hn_jobs)
