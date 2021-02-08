@@ -114,6 +114,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ### Germany
 
 - [Job List Berlin](https://joblistberlin.com/companies)
+- [findwrk](https://findwrk.app/germany-jobs)
 
 ### Japan
 
