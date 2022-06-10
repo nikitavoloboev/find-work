@@ -119,6 +119,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ### Japan
 
 - [Japan Dev](https://japan-dev.com/) - Best source for developer jobs at Japan's top companies.
+- [Employment Japan](https://www.employmentjapan.com/) - List of jobs for foreigners in Japan, or Japan-related jobs in other countries.
 
 ## Freelancing
 
