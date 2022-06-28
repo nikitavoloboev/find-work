@@ -68,6 +68,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Y Combinator's list of most active hiring companies on Work at a Startup](https://www.workatastartup.com/job_list?utm_source=hn_jobs)
 - [NoiceJobs: Senior Remote Jobs](https://t.me/NoiceJobs) ([HN](https://news.ycombinator.com/item?id=23500588))
 - [Remoteleaf](https://remoteleaf.com/) - Receive hand-picked remote jobs delivered straight to your inbox.
+- [Hotfixo](https://hotfixo.com) - Remote and office software development jobs. Information about salaries ($$$).
 
 ## Find work by technology
 
