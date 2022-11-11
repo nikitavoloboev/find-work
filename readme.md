@@ -118,6 +118,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Job List Berlin](https://joblistberlin.com/companies)
 - [findwrk](https://findwrk.app/germany-jobs)
+- [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in Germany, Austria & Switzerland.
 
 ### Japan
 
