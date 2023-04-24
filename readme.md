@@ -38,6 +38,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Find work
 
+- [Figures](https://joinfigures.com/) - Receive high-paying jobs based on your minimum salary requirement.
 - [HN: Who is Hiring](https://kennytilton.github.io/whoishiring/) - Search & filter through monthly `HN: Who is hiring?` postings.
 - [Otta](https://otta.co/) - Discover the most relevant roles for you at all of London's best startups.
 - [findwork.dev](https://findwork.dev) - Jobs aggregator which collects data from Hacker News, Github, Stackoverflow.
