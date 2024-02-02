@@ -71,6 +71,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [FreshRemote.work](https://freshremote.work/) - Find fresh remote work anywhere.
 - [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI/ML and Big Data.
 - [infosec-jobs.com](https://infosec-jobs.com/) - Find awesome jobs in Cybersecurity.
+- [OkJob](https://okjob.io) - 4 day week job board.
 
 ## Find work by technology
 
